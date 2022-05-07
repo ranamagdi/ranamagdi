@@ -1,4 +1,4 @@
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ranamagdi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
 </div>
