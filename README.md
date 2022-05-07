@@ -6,7 +6,7 @@
   <a href="linkedin.com/in/rana-magdi-4aa5401b0">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<img src="https://komarev.com/ghpvc/?username=ranamagdi&style=flat-square&color=blue" alt=""/ align="center">
+<img src="https://komarev.com/ghpvc/?username=ranamagdi&style=flat-square&color=blue" alt=""/ >
 
 <!--
 **ranamagdi/ranamagdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
