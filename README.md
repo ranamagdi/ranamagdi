@@ -6,7 +6,7 @@
   <a href="linkedin.com/in/rana-magdi-4aa5401b0">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<div>
+</div>
 <img src="https://komarev.com/ghpvc/?username=ranamagdi&style=flat-square&color=blue" alt=""/ align="center">
 <h1>
   Hi there 
@@ -15,9 +15,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" width="600" height="300"/>
 </div>
-# About Me :
-  I am a senior student of faculty of engineering ain shams.
-# Languages and Tools :
+### :woman_technologist: About Me :
+ I am a computer senior student in the faculty of engineering ain shams.
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
