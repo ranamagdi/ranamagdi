@@ -2,11 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
 </div>
-<div id="badges">
-  <a href="linkedin.com/in/rana-magdi-4aa5401b0">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+<img src="https://komarev.com/ghpvc/?username=https://github.com/ranamagdi&style=flat-square&color=blue" alt=""/>
 
 <!--
 **ranamagdi/ranamagdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
