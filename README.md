@@ -31,5 +31,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
+https://www.linkedin.com/posts/dinadibrahim_egypt-internship-activity-6959999799324471296-s-5J?utm_source=linkedin_share&utm_medium=member_desktop_web
 
